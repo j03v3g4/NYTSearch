@@ -12,12 +12,11 @@
 // Clear results button
 
 // Search button 
-    // on click to run query
 
 
 <!-- Back end -->
 
-// Global variables to hold 
+// Global variables to hold: 
 
     // parameters
 
@@ -26,3 +25,5 @@
     // Variable to hold results
 
     // Dynamically create new divs within the result location
+
+// on click to run query
